@@ -4,19 +4,19 @@ I'm currenly Learning Java, SQL and.... Minecraft Modding
 
 ### Languages 
 
-Java
+##Java
 
 ### OS
 
-Windows, Linux (preferred Debian based distros, but i use others btw)
+##Windows, Linux (preferred Debian based distros, but i use others btw)
 
-### Currently Learning Focus
+### Currently Learning
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
 |     2| SQL       |
-|     3| Fabric    | //just for fun sure
+|     3| Fabric    |
 
 
 
