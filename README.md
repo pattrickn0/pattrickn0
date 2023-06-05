@@ -1,14 +1,14 @@
-### Hi there, my name is Pattrick currently studying looking for a job and developing a Minecraft Mod in my free time 👋
+### Hi there, i'm Pattrick, currently studying, looking for a job, and developing a Minecraft Mod in my free time 👋
 
 I'm currenly Learning Java, SQL and.... Minecraft Modding
 
 ### Languages 
 
-##Java
+###Java
 
 ### OS
 
-##Windows, Linux (preferred Debian based distros, but i use others btw)
+###Windows, Linux (preferred Debian based distros, but i use others btw)
 
 ### Currently Learning
 
