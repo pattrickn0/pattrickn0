@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, my name is Pattrick currently studying looking for a job and developing a Minecraft Mod in my free time 👋
+
+I'm currenly Learning Java, MySQL and.... Minecraft Modding
+
+### Languages 
+
+Java
+
+### OS
+
+Windows, Linux (preferred Debian based distros)
 
 <!--
 **pattrickn0/pattrickn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
