@@ -1,4 +1,4 @@
-### Hi there, i'm Pattrick, currently studying, looking for a job, and developing a Minecraft Mod in my free time 👋
+### Hi there, i'm Pattrick, currently studying, looking for a job, and developing some C# codes in my free time
 
 ### Languages 
 
@@ -12,9 +12,8 @@ Windows, Linux (preferred Debian based distros, but i use others btw)
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Java      |
-|     2| SQL       |
-|     3| Fabric    |
+|     1| C#        |
+|     2| Java      |
 
 
 
