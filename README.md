@@ -2,7 +2,11 @@
 
 ### Languages 
 
-Java, sooner will be C#
+Java, C#
+
+### Data Base
+
+MySQL
 
 ### OS
 
