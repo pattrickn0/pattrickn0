@@ -1,4 +1,4 @@
-### Hi there, i'm Pattrick, currently studying, looking for a job, and developing some C# codes in my free time
+### Sou estudante de Sistemas de Informação e busco aprimorar minhas habilidades como desenvolvedor. Tenho mais experiência com Backend, utilizando Java, C# e SQL, e recentemente iniciei meus estudos em Frontend para me tornar um profissional mais completo. Apesar de não ter experiência profissional na área, aplico meus conhecimentos em projetos acadêmicos e pessoais, visando desenvolver sistemas completos e bem estruturados.
 
 ### Languages 
 
